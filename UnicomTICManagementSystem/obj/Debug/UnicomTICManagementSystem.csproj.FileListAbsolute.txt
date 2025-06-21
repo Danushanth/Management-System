@@ -1,0 +1,89 @@
+Z:\C#\C# Project\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe.config
+Z:\C#\C# Project\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe
+Z:\C#\C# Project\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.pdb
+Z:\C#\C# Project\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.dll
+Z:\C#\C# Project\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.xml
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Form1.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Properties.Resources.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.LoginForm.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.GenerateResource.cache
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTI.449BFD41.Up2Date
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.exe
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.pdb
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageLecture.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStaff.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStudent.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageCoursesForm.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageSubjectsForm.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageTimetable.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.exe.config
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Form1.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.AdminForm.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.ManageCoursesForm.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.LoginForm.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.ManageLecture.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.ManageStaff.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.ManageStudent.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.ManageSubjectsForm.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.Views.ManageTimetable.resources
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.exe
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTICManagementSystem.pdb
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\bin\Debug\UnicomTICManagementSystem.exe.config
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\bin\Debug\UnicomTICManagementSystem.exe
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\bin\Debug\UnicomTICManagementSystem.pdb
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\Desktop\C#\OOP-PROJECT\obj\Debug\UnicomTI.449BFD41.Up2Date
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.AdminForm.resources
+Z:\C#\C# Project\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ExamForm.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe.config
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.pdb
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Form1.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Properties.Resources.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.AdminForm.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ExamForm.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageCoursesForm.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.LoginForm.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageLecture.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStaff.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStudent.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageSubjectsForm.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageTimetable.resources
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.GenerateResource.cache
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTI.449BFD41.Up2Date
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.exe
+C:\Users\UT010619\Desktop\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.pdb
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Form1.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Properties.Resources.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.AdminForm.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ExamForm.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageCoursesForm.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.LoginForm.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageLecture.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStaff.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStudent.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageSubjectsForm.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageTimetable.resources
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.GenerateResource.cache
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.exe
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.pdb
+Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe.config
+Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe
+Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.pdb
+Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.dll
+Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.xml
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTI.449BFD41.Up2Date
+Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.MarkForm.resources
