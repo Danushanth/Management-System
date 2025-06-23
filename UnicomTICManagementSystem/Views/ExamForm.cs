@@ -31,8 +31,7 @@ namespace UnicomTICManagementSystem.Views
 
         }
 
-
-
+//========================================================================================================================
         private void btnAdd_Click(object sender, EventArgs e)
         {
             var exam = new Exam
