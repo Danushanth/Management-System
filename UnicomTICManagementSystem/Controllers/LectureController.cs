@@ -20,6 +20,8 @@ namespace UnicomTicManagementSystem.Controllers
                     list.Add(new Lecture
                     {
                         LectureId = reader.GetInt32(0),
+
+
                         LectureName = reader.GetString(1),
                         LectureAddress = reader.GetString(2),
                         LectureNicNo = reader.GetInt32(3),

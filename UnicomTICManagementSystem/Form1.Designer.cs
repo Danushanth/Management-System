@@ -150,12 +150,15 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(499, 12);
+            this.button5.BackColor = System.Drawing.Color.LightGray;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Location = new System.Drawing.Point(418, 12);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 23);
+            this.button5.Size = new System.Drawing.Size(275, 36);
             this.button5.TabIndex = 0;
-            this.button5.Text = "UNICOM TIC ";
-            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Text = "UNICOM TIC OVEROLL SADUEL ";
+            this.button5.UseVisualStyleBackColor = false;
             // 
             // pictureBox1
             // 

@@ -87,3 +87,27 @@ Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.dll
 Z:\new\New folder\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.xml
 Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTI.449BFD41.Up2Date
 Z:\new\New folder\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.MarkForm.resources
+E:\NewOOP\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe.config
+E:\NewOOP\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.exe
+E:\NewOOP\UnicomTICManagementSystem\bin\Debug\UnicomTICManagementSystem.pdb
+E:\NewOOP\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.dll
+E:\NewOOP\UnicomTICManagementSystem\bin\Debug\System.Data.SQLite.xml
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.exe.config
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Form1.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Properties.Resources.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.AdminForm.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ExamForm.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageCoursesForm.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.LoginForm.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageLecture.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStaff.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageStudent.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageSubjectsForm.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.ManageTimetable.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.Views.MarkForm.resources
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.GenerateResource.cache
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTI.449BFD41.Up2Date
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.exe
+E:\NewOOP\UnicomTICManagementSystem\obj\Debug\UnicomTICManagementSystem.pdb
